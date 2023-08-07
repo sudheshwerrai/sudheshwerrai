@@ -31,8 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudheshwerrai&" alt="sudheshwerrai" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudheshwerrai&show_icons=true&locale=en&layout=compact" alt="sudheshwerrai" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheshwerrai&show_icons=true&locale=en" alt="sudheshwerrai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudheshwerrai&" alt="sudheshwerrai" /></p>
+<h2 style="color:green">Thank you so much for visiting my profile</h2>
+<h3 style="color:yellow">If you are looking for dot net full stack training. Please visit https://learnathouse.com </h3>
