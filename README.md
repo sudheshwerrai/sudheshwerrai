@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheshwerrai&label=Profile%20views&color=0e75b6&style=flat" alt="sudheshwerrai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudheshwerrai" alt="sudheshwerrai" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sudheshwer_rai" target="blank"><img src="https://img.shields.io/twitter/follow/sudheshwer_rai?logo=twitter&style=for-the-badge" alt="sudheshwer_rai" /></a> </p>
 
 - 🌱 I’m currently learning **Blazor, Tailwind and Angular**
