@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sudheshwer_rai" target="blank"><img src="https://img.shields.io/twitter/follow/sudheshwer_rai?logo=twitter&style=for-the-badge" alt="sudheshwer_rai" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind and Angular**
+- 🌱 I’m currently learning **HTML, CSS, Bootstrap, Javascirpt & React**
 
 - 💬 Ask me about **C#, Blazor, ASP.NET MVC, Web API Core & SQL Server**
 
