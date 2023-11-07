@@ -1,4 +1,3 @@
-[![logo](https://github.com/sudheshwerrai/sudheshwerrai/blob/main/banner.png)](url)
 <h1 align="center">Hi 👋, I'm Sudheshwer Rai</h1>
 <h3 align="center">A passionate Full Stack Dot Net developer from India</h3>
 
