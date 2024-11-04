@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **HTML, CSS, Tailwind, Java Script, React, C#, ASP.NET MVC, Web API Core & SQL Server**
+- 💬 Ask me about **HTML, CSS, Tailwind, Java Script, React, C#, ASP.NET Core MVC, Web API Core & SQL Server**
 
 - 📫 How to reach me **https://learnathouse.com**
 
